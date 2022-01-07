@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Raza-Mukhttar
+- 👋 Hi, I’m @Raza-Mukhtar
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning data analysing
 - 💞️ I’m looking to collaborate on machinne learning, natural language processing, and data analysis
